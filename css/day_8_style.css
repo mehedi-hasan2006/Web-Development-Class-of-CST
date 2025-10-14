@@ -1,0 +1,18 @@
+p{
+  color: red;  
+  font-size: 50px;
+  background-color: yellow;
+  text-align: center;
+}
+
+.paragraph2{
+    color:rgb(255, 4, 130);
+    font-size: 30px;
+    background-color: rgb(169, 173, 173);
+}
+
+#blod{
+    color: blue;
+    font-size: 60px;
+    background-color: #2929;
+}
