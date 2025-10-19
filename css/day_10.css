@@ -1,0 +1,39 @@
+div{
+    background-color: aqua;
+    padding-left: 10px;
+    padding-top: 15px;
+
+    font-size: 50px;
+
+    border: 3px solid blue;
+
+
+    margin-left: ;
+    margin-top:px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+
+    text-align: ;
+    direction: ltr;
+
+    text-transform: capitalize;
+    line-height: 100px;
+}
+
+span{
+    border: 5px double pink;
+    padding: 5px;
+    color: #637AB9;
+    text-decoration: line-through;
+}
+
+a{
+    margin-top: 100px;
+    text-decoration: none;
+    color: lightcoral;
+    font-size: 50px;
+    background-color: black;
+    padding: 5px;
+
+    text-shadow: 2px 2px red;
+}
